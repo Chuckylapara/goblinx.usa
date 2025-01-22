@@ -1,0 +1,2 @@
+# goblinx.usa
+crypto mining
